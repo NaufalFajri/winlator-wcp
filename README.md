@@ -7,5 +7,5 @@ useful link
 - [wine all version](https://github.com/ajay9634/Ajay-prefix/releases/tag/Wine_wcp)
 - [turnip all variant](https://github.com/ajay9634/Ajay-prefix/releases/tag/Graphics_driver)
 - [turnip latest](https://github.com/K11MCH1/WinlatorTurnipDrivers/releases)
-- [d3d all variant](https://github.com/ajay9634/Ajay-prefix/releases/tag/D3d_wcp)
+- [dxvk vkd3d all variant](https://github.com/ajay9634/Ajay-prefix/releases/tag/D3d_wcp)
 - [dxvk IamN4m3l3ss](https://github.com/IamN4m3l3ss/DXVK-wcp/releases)
